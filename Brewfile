@@ -16,6 +16,7 @@ brew xz
 tap homebrew/cask
 cask alfred
 cask discord
+cask kitty
 cask webex-meetings
 
 tap rcmdnk/file
